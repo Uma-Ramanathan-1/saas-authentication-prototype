@@ -8,6 +8,16 @@ It includes user registration, JWT-based login, a simulated email verification f
 
 ---
 
+## ⭐ Like What You See?
+If this project helped you, inspired you, or saved you time, consider giving it a ⭐! It helps others discover it and keeps the momentum going.
+
+---
+
+## 💬 Share Your Thoughts
+We use [GitHub Discussions](https://github.com/Uma-Ramanathan-1/saas-authentication-prototype/discussions) to gather feedback and ideas. Jump into our [Feedback & Ideas Thread](https://github.com/Uma-Ramanathan-1/saas-authentication-prototype/discussions/1) and let’s chat!
+
+---
+
 ## 🚀 Features
 
 - ✅ **Two-Step User Registration:** Secure registration flow where users are only created after email verification.
